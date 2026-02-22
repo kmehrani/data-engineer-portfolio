@@ -15,6 +15,9 @@ for num in numbers:
         result["odd"].append(num)
         
 print(result)
-    
 
+#OUTPUT: {'even': [8, 22, 30], 'odd': [3, 15, 27]}
+    
+#LOG: Took a break to prep for ramadan but now I am back. Problem was not difficult.
+#It gave me a small push.
 
